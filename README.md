@@ -4,7 +4,9 @@ Introduction of the Dataset
 
 The Obesity Classification Dataset is a dataset commonly used in machine learning for classification tasks, particularly in the domain of healthcare and medical research. This dataset typically contains various features related to individuals' lifestyles, eating habits, physical activity levels, and health indicators, such as: Age, Gender, Weight, BMI and Lable(Obesity Level)
 
-This dataset contains information about the obesity classification of individuals. The data was collected from a variety of sources, including medical records, surveys, and self-reported data. The dataset includes the following columns:
+This dataset contains information about the obesity classification of individuals. The data was collected from a variety of sources, including medical records, surveys, and self-reported data. 
+
+The dataset includes the following columns:
 
 ID: A unique identifier for each individual
 
